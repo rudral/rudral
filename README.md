@@ -1,3 +1,3 @@
-### ⚡ Fun fact: I have created this profile preview, becaaaauuuseee... I can.
+### ⚡ Fun fact: I have created this profile preview... Because I can.
 
 ![I can](ican.gif "I can")
