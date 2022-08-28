@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rudral" target="blank"><img src="https://img.shields.io/twitter/follow/rudral?logo=twitter&style=for-the-badge" alt="rudral" /></a> </p>
 
-- 👨‍💻 My portfolio site: [www.rudral.com](www.rudral.com)
+- 👨‍💻 My portfolio site: [https://www.rudral.com](https://www.rudral.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
