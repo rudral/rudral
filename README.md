@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tuncay ÇAKMANUS a.k.a rudral</h1>
-<h3 align="center">computer engineer & full-stack web developer from Fethiye/TR</h3>
+<h1 align="center">Hi, my name is Tuncay ÇAKMANUS</h1>
+<h3 align="center">computer engineer & full-stack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudral&label=Profile%20views&color=0e75b6&style=flat" alt="rudral" /> </p>
 
