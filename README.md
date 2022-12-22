@@ -8,11 +8,11 @@
 
 <div align="center">
 
-I craft Next.js, React and Node.js applications with Typescript.
+I craft Next.js, React, Angular and Node.js applications with Typescript.
 
 🖥️  See my portfolio at [www.rudral.com](http://www.rudral.com)
 
-🌍  I'm based in Fethiye, Turkey.
+🌍  I'm based in İzmir, Turkey.
 
 <a href="https://www.twitter.com/rudral" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/rudral?logo=twitter&style=for-the-badge&color=64748b&labelColor=1c1917"
