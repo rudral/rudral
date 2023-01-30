@@ -2,7 +2,7 @@
   👋 Hi, my name is Tuncay ÇAKMANUS<div align="center">a.k.a. `rudral`</div>
 </h1>
 <h3 align="center" style="margin-bottom:15px">
-  COMPUTER ENGINEER & FULL-STACK WEB DEVELOPER
+  SENIOR SOFTWARE ENGINEER & FULL-STACK WEB DEVELOPER
   
 </h3>
 
