@@ -16,7 +16,6 @@
   <a href="https://www.rudral.com" target="_blank">🌐 Portfolio</a> •
   <a href="https://x.com/rudral" target="_blank">𝕏 Twitter</a> •
   <a href="https://www.linkedin.com/in/rudral" target="_blank">💼 LinkedIn</a>
-  <a href="https://github.com/tuncay-cakmanus" target="_blank">💻 My Work GitHub</a>
 </div>
 
 ---
