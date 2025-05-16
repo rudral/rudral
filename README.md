@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://www.rudral.com" target="_blank">🌐 Portfolio</a> •
-  <a href="https://x.com/rudral" target="_blank">𝕏 Twitter</a> •
+  <a href="https://x.com/rudral" target="_blank">𝕏</a> •
   <a href="https://www.linkedin.com/in/rudral" target="_blank">💼 LinkedIn</a>
 </div>
 
