@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Software Engineer at <a href="https://www.oakslab.com" target="_blank">OAK'S LAB</a>
+  Senior Software Engineer at <a href="https://www.oakslab.com" target="_blank">OAK'S LAB</a>
 </h3>
 
 <p align="center">
